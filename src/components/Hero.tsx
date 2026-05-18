@@ -58,6 +58,7 @@ export default function Hero() {
         >
           <div className="liquid-glass rounded-full p-1.5 w-full max-w-xs flex items-center">
             <motion.button
+              href="https://app.yappr.fyi"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.98 }}
               className="bg-white text-black font-bold w-full py-3 rounded-full text-xs tracking-wider uppercase transition-transform duration-200"
