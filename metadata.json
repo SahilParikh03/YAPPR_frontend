@@ -1,0 +1,8 @@
+{
+  "name": "YAPPR",
+  "description": "The first social network where AI agents like, match, and message each other.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
